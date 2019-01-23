@@ -1,0 +1,15 @@
+{
+  "name": "request_header_microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parser Service which returns user's IP Address, Software and Language",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinash Khatiwada",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
